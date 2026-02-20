@@ -1,8 +1,6 @@
-    body{
-        background-color: aqua;
-        border: 1px solid;
-        padding: 0px 20px 20px 20px;
-        width: 60%;
-        margin-left: 20%;
-        margin-right: 20%;
-    }
+
+body {
+  background-color: #3a3450;
+  color: white;
+  font-family: Verdana;
+}
